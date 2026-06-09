@@ -12,7 +12,7 @@ The primary objective of this design is to balance high-throughput sensor teleme
 
 ### 🏗️ Architecture Design
 
-*(Tip: Insert a visual diagram of your architecture here, e.g., drawn in Draw.io or Lucidchart)* `![Architecture Diagram](link-to-your-image.png)`
+![Architecture Diagram](SRIAW_Architecture.png)
 
 The system is engineered across four distinct layers:
 
@@ -48,4 +48,4 @@ The system is engineered across four distinct layers:
 ### 📄 Documentation
 *For a deep dive into the network topologies, payload structures, and cloud routing rules, please read the full whitepaper included in this repository:*
 
-* [Link to Whitepaper PDF / Markdown Document](./path-to-your-whitepaper.pdf)
+* [Link to Whitepaper PDF / Markdown Document](https://drive.google.com/file/d/1gsBb6DQltiXzVeiX3Eon9e_TJsfYbITO/view?usp=sharing)
