@@ -48,4 +48,4 @@ The system is engineered across four distinct layers:
 ### 📄 Documentation
 *For a deep dive into the network topologies, payload structures, and cloud routing rules, please read the full whitepaper included in this repository:*
 
-* [Link to Whitepaper PDF / Markdown Document](https://drive.google.com/file/d/1gsBb6DQltiXzVeiX3Eon9e_TJsfYbITO/view?usp=sharing)
+* [Smart Retail IoT Architecture Whitepaper](https://drive.google.com/file/d/1gsBb6DQltiXzVeiX3Eon9e_TJsfYbITO/view?usp=sharing)
