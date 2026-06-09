@@ -12,7 +12,7 @@ The primary objective of this design is to balance high-throughput sensor teleme
 
 ### 🏗️ Architecture Design
 
-![Architecture Diagram](SRIAW_Architecture.png)
+![Architecture Diagram](images/Group%2038.png)
 
 The system is engineered across four distinct layers:
 
